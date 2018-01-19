@@ -66,5 +66,4 @@ plt.plot(x, y)
 plt.show()
 ```
 
-![](/assets/Screen Shot 2017-06-11 at 2.28.39 AM.png)
 
